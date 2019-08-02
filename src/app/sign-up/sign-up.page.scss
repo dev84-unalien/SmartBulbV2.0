@@ -1,0 +1,65 @@
+#titre {
+    margin-top: 50px;
+    text-align: center;
+  }
+  #form {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    height: 160px;
+  }
+  input {
+    border-radius: 50px;
+    height: 35px;
+    width: 230px;
+    color: black;
+  }
+  input[placeholder] {
+    padding-left: 10px;
+  }
+  #bouton {
+    border-radius: 50px;
+    height: 35px;
+    width: 160px;
+    background-color: darkorchid;
+    color: white;
+    font-size: 1.3em;
+  }
+  #facebook {
+    border-radius: 50px;
+  }
+  #login ion-button {
+    height: 50px;
+    width: 50px;
+    border-radius: 150px !important;
+    overflow: hidden;
+    font-size: 15px;
+  }
+  #texte {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  #texte > span {
+    margin-top: 20px;
+  }
+  #login {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 200px; 
+    margin: 10px 0px 0px 80px;
+  }
+  #login > ion-button {
+    border-radius: 50px;
+    
+  }
+  #content {
+    background-color: rgb(146, 12, 12);
+  }
+  .p {
+    text-align: center;
+    border-top: black solid 1px;
+    padding: 20px;
+  }
