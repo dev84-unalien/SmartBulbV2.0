@@ -1,1 +1,19 @@
-
+h1 {
+    text-align:center;
+  
+  }
+  #img, #btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  img {
+    height: 350px;
+  }
+  
+  .btn1{
+    -webkit-text-fill-color: greenyellow;
+  }
+  p {
+    text-align: center;
+  }
