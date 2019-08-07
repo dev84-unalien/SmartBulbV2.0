@@ -46,14 +46,14 @@
   }
   #login {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
-    width: 200px; 
-    margin: 10px 0px 0px 80px;
+    width: auto; 
+    margin-top: 10px ;
   }
   #login > ion-button {
     border-radius: 50px;
-    
+    margin: 20px;
   }
   #content {
     background-color: rgb(146, 12, 12);

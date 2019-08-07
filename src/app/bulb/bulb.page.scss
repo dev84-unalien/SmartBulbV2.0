@@ -1,0 +1,82 @@
+ion-content{
+    display: flex;
+}
+
+ion-title{
+    text-align: center;
+}
+
+#ensemble{
+    display: flex;
+    position: relative;
+}
+
+.plus{
+    margin: 5px 5px 0px 0px; 
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.plus > img{
+    height: 20px;
+}
+
+.pro{
+    width: 80px;
+    height: 80px;
+}
+
+.ampoule{
+    margin-top: -20px;
+    height: 150px;
+    width: 150px;
+}
+ion-icon {
+    color: black;
+}
+.stylo > ion-button{
+    width: 60px ;
+    height: 30px;
+}
+
+.stylo{
+    position: absolute;
+    margin: -35px 0px 0px 110px;
+    height: 15px;
+    width: 20px;
+}
+
+input{
+    margin: 5px 0px 0px 25px;
+    padding-left: 8px;
+    width: 120px;
+    color: black;
+}
+
+.pr{
+    margin-left: 100px;
+    width: 80px;
+    height: 80px;
+}
+
+.ampoul{
+    margin-top: -20px;
+    height: 150px;
+    width: 150px;
+}
+
+.styl{
+    position: absolute;
+    margin: -35px 0px 0px 110px;
+    height: 15px;
+    width: 20px;
+}
+.styl > ion-button{
+    width: 60px ;
+    height: 30px;
+}
+
+p{
+   text-align: center;
+}
